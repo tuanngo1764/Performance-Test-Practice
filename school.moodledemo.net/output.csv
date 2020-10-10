@@ -1,0 +1,8 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1598355662150,910,homePage,200,OK,Thread Group 1-1,text,true,,16940,553,1,1,https://school.moodledemo.net/,744,0,515
+1598355663061,202,loginPage,200,OK,Thread Group 1-1,text,true,,9314,672,1,1,https://school.moodledemo.net/login/index.php,201,0,0
+1598355663264,1010,loginAction,200,OK,Thread Group 1-1,text,true,,30622,2473,1,1,https://school.moodledemo.net/my/,381,0,0
+1598355663264,381,loginAction-0,303,See Other,Thread Group 1-1,text,true,,1006,880,1,1,https://school.moodledemo.net/login/index.php,381,0,0
+1598355663646,178,loginAction-1,303,See Other,Thread Group 1-1,text,true,,794,810,1,1,https://school.moodledemo.net/login/index.php?testsession=13,178,0,0
+1598355663824,450,loginAction-2,200,OK,Thread Group 1-1,text,true,,28822,783,1,1,https://school.moodledemo.net/my/,281,0,0
+1598355664275,461,viewCource-59,200,OK,Thread Group 1-1,text,true,,29321,701,1,1,https://school.moodledemo.net/course/view.php?id=59,292,0,0

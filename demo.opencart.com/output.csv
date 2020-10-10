@@ -1,0 +1,22 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1598409497335,1224,homePage,200,OK,Thread Group 1-1,text,true,,4598,591,1,1,https://demo.opencart.com/,1042,0,94
+1598409498560,1103,loginPage,200,OK,Thread Group 1-1,text,true,,3426,795,1,1,https://demo.opencart.com/index.php?route=account%2Flogin,920,0,0
+1598409499664,2160,login-tokens,200,OK,Thread Group 1-1,text,true,,3916,2061,1,1,https://demo.opencart.com/index.php?route=account/account,1055,0,0
+1598409499664,1055,login-tokens-0,302,Found,Thread Group 1-1,text,true,,564,1202,1,1,https://demo.opencart.com/index.php?route=account/login,1055,0,0
+1598409500719,1105,login-tokens-1,200,OK,Thread Group 1-1,text,true,,3352,859,1,1,https://demo.opencart.com/index.php?route=account/account,924,0,0
+1598409501825,1139,login,200,OK,Thread Group 1-1,text,true,,3369,826,1,1,https://demo.opencart.com/index.php?route=account%2Faccount,953,0,0
+1598409502965,1130,search,200,OK,Thread Group 1-1,text,true,,4699,840,1,1,https://demo.opencart.com/index.php?route=product%2Fsearch&search=nikon,948,0,0
+1598409504097,955,addCart,200,OK,Thread Group 1-1,text,true,,724,990,1,1,https://demo.opencart.com/index.php?route=checkout/cart/add,933,0,0
+1598409505053,1339,checkoutCart,200,OK,Thread Group 1-1,text,true,,8228,870,1,1,https://demo.opencart.com/index.php?route=checkout%2Fcart,975,0,0
+1598409506393,1230,search,200,OK,Thread Group 1-1,text,true,,4960,842,1,1,https://demo.opencart.com/index.php?route=product%2Fsearch&search=samsung,1040,0,0
+1598409507624,944,addCart,200,OK,Thread Group 1-1,text,true,,736,992,1,1,https://demo.opencart.com/index.php?route=checkout/cart/add,927,0,0
+1598409508569,1395,checkoutCart,200,OK,Thread Group 1-1,text,true,,8313,872,1,1,https://demo.opencart.com/index.php?route=checkout%2Fcart,1017,0,0
+1598409509965,1205,search,200,OK,Thread Group 1-1,text,true,,4962,841,1,1,https://demo.opencart.com/index.php?route=product%2Fsearch&search=iphone,1016,0,0
+1598409511171,981,addCart,200,OK,Thread Group 1-1,text,true,,721,991,1,1,https://demo.opencart.com/index.php?route=checkout/cart/add,966,0,0
+1598409512153,1393,checkoutCart,200,OK,Thread Group 1-1,text,true,,8395,871,1,1,https://demo.opencart.com/index.php?route=checkout%2Fcart,1015,0,0
+1598409513547,1243,search,200,OK,Thread Group 1-1,text,true,,4934,841,1,1,https://demo.opencart.com/index.php?route=product%2Fsearch&search=galaxy,1056,0,0
+1598409514790,999,addCart,200,OK,Thread Group 1-1,text,true,,735,991,1,1,https://demo.opencart.com/index.php?route=checkout/cart/add,982,0,0
+1598409515790,1367,checkoutCart,200,OK,Thread Group 1-1,text,true,,8564,871,1,1,https://demo.opencart.com/index.php?route=checkout%2Fcart,1001,0,0
+1598409517158,1325,search,200,OK,Thread Group 1-1,text,true,,5018,839,1,1,https://demo.opencart.com/index.php?route=product%2Fsearch&search=iMac,1142,0,0
+1598409518484,1061,addCart,200,OK,Thread Group 1-1,text,true,,720,989,1,1,https://demo.opencart.com/index.php?route=checkout/cart/add,1046,0,0
+1598409519546,1393,checkoutCart,200,OK,Thread Group 1-1,text,true,,8735,869,1,1,https://demo.opencart.com/index.php?route=checkout%2Fcart,1024,0,0

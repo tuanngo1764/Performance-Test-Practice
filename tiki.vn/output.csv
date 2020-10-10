@@ -1,0 +1,10 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1598373904230,1212,homePage,200,OK,Thread Group 1-1,text,true,,1005,589,1,1,https://www.example.com/,1212,0,1028
+1598373905445,186,homePage-me,200,OK,Thread Group 1-1,text,true,,938,499,1,1,https://tiki.vn/api/v2/me,185,0,116
+1598373905631,105,login-tokens,200,OK,Thread Group 1-1,text,true,,2996,663,1,1,https://tiki.vn/api/v2/tokens,102,0,0
+1598373905762,75,login-done,200,OK,Thread Group 1-1,text,true,,17237,589,1,1,https://tiki.vn/,55,0,0
+1598373905838,151,login-me,200,OK,Thread Group 1-1,text,true,,3312,1305,1,1,https://tiki.vn/api/v2/me,151,0,0
+1598373905991,110,dropdown-menu,200,OK,Thread Group 1-1,text,true,,43509,2274,1,1,https://tiki.vn/api/v2/tools/megamenu,49,0,0
+1598373906101,48,viewInfo,200,OK,Thread Group 1-1,text,true,,805,2325,1,1,https://tiki.vn/api/v2/me/link_social_account,48,0,0
+1598373906149,69,recently-viewed,200,OK,Thread Group 1-1,text,true,,4337,2321,1,1,https://tiki.vn/api/v2/me/recently_viewed,67,0,0
+1598373906218,122,editInfo,200,OK,Thread Group 1-1,text,true,,2398,2479,1,1,https://tiki.vn/api/v2/me/account,122,0,0
